@@ -28,7 +28,7 @@ To run the script you need to:
 ![](readme/jupiterwrap.png)
 
 ## CONFIG
-1. Configure the script by updating `.env.copy` file (**remove the .copy from the file name when done**).
+1. Configure the script by updating `.env.copy` file (**remove the .copy from the file name when done, make sure its .env extension**).
 2. `PRIVATE_KEY` (your wallet private key)
 3. `RPC_ENDPOINT` (https RPC endpoint)
 4. `RPC_WEBSOCKET_ENDPOINT` (websocket RPC endpoint)
