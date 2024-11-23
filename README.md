@@ -21,7 +21,7 @@ Depending on the speed of the RPC node, the purchase usually happens before the 
 To run the script you need to:
 1. Use your Solana Wallet
 2. Have some SOL in it
-3. Convert some SOL to USDC or WSOL (you need USDC or WSOL depending on the configuration set below)
+3. Convert some SOL to USDC or WSOL (you need USDC or WSOL depending on the configuration set below, I personally use WSOL mostly, but whatever suits you use it.)
 
 `Jupiter Wrap` : https://jup.ag/
 
