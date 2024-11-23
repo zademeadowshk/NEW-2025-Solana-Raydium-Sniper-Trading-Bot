@@ -1,4 +1,5 @@
-**The New 2025 Solana Raydium Sniper Bot - High-Speed Token Trading | Free Crypto Trading Bot for USDC/SOL Pools | Profit-Powered Automation** 
+# The New 2025 Solana Raydium Sniper Bot - High-Speed Token Trading | Free Crypto Trading Bot for USDC/SOL Pools | Profit-Powered Automation
+Solana Raydium Sniper Bot: a free, high-speed crypto trading tool for sniping new Raydium USDC/SOL pools. Execute token buys before they hit the Raydium UI, leveraging optimized RPC nodes for maximum profit. Perfect for Solana blockchain enthusiasts and traders seeking automated crypto profits.
 
 ![](readme/spl.png)
 
@@ -47,8 +48,9 @@ To run the script you need to:
 ![](readme/env.png)
   
 ## INSTALL
-1. Install dependencies by typing: `npm install`
-2. Run the script by typing: `npm run start` in terminal
+1. Navigate the bot by typing `cd (bot file location)`
+2. Install dependencies by typing: `npm install`
+3. Run the script by typing: `npm run start` in terminal
 
 ![](readme/preview.png)
 
