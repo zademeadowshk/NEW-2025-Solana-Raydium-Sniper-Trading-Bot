@@ -46,7 +46,7 @@ To run the script you need to:
 13. `MIN_POOL_SIZE` (script will buy only if pool size is greater than specified amount)
 14. `TAKE_PROFIT=50` (in %)
 15. `STOP_LOSS=30` (in %)
-16. `BIRDEYE_API_KEY=` (TP/SL, Burn/Lock) generate here : https://docs.birdeye.so/docs/authentication-api-keys
+16. `BIRDEYE_API_KEY=` (TP/SL, Burn/Lock) generate it for free here : https://docs.birdeye.so/docs/authentication-api-keys
 
 ![](readme/env.png)
   
