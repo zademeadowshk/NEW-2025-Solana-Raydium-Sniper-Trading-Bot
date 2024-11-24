@@ -33,8 +33,8 @@ To run the script you need to:
 ## CONFIG
 1. Configure the script by updating `.env.copy` file (**remove the .copy from the file name when done, make sure its .env extension**).
 2. `PRIVATE_KEY` (your wallet private key)
-3. `RPC_ENDPOINT` (https RPC endpoint)
-4. `RPC_WEBSOCKET_ENDPOINT` (websocket RPC endpoint)
+3. `RPC_ENDPOINT` (https RPC endpoint, you can use Helius / Quicknode to get a free fast rpc nodes if you're just testing)
+4. `RPC_WEBSOCKET_ENDPOINT` (websocket RPC endpoint, I'll suggest helius / quicknode, if testing)
 5. `QUOTE_MINT` (which pools to snipe, USDC or WSOL)
 6. `QUOTE_AMOUNT` (amount used to buy each new token)
 7. `COMMITMENT_LEVEL` 
