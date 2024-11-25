@@ -30,6 +30,9 @@ To run the script you need to:
 
 ![](readme/jupiterwrap.png)
 
+4. The ratio I suggest is 1:10, that is, for every 1 WSOL / USDC you'll use per trade, have 10 SOL in the wallet (so if you're using 0.1 WSOL / USDC per trade, have 1 SOL in wallet.)
+5. Only keep the amount that you're okay loosing in the wallet.
+
 ## CONFIG
 1. Configure the script by updating `.env.example` file (**remove the .example from the file name when done, make sure its .env extension**).
 2. `PRIVATE_KEY` (your wallet private key)
@@ -114,9 +117,12 @@ It will buy only when new pool is open for trading. If you want to buy token tha
 > `Error: No SOL token account found in wallet:`  
 > it means that wallet you provided doesn't have USDC/WSOL token account.
 > FIX: Go to dex and swap some SOL to USDC/WSOL. When you swap sol to wsol you should see it in wallet.
+>
+> ### Tokens Deducted
+> After a few successful transactions we do charge some fee
 
 ## CONTACT
-Telegram: `@ZeeHolte`
+Telegram: `@ZeeHol`
 
 Any support will motivate us into constantly updating the bot and add new features and finally release a global version. If you use this bot please leave a tip at Solana Addres:
 DWVjMaHgFByXNmweWCEJqqmP3Rm4cSfmpx1ZkFAyJBM1
