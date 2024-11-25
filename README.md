@@ -31,9 +31,9 @@ To run the script you need to:
 
 ![](readme/jupiterwrap.png)
 
-4. The ratio I suggest is 1:10, that is, for every 1 WSOL / USDC you'll use per trade, have 10 SOL in the wallet (so if you're using 0.1 WSOL / USDC per trade, have 1 SOL in wallet.)
+4. The ratio I suggest is 1:10, that is, for every 1 WSOL / USDC you'll use per trade, have 10 SOL in the wallet (so if you're using 0.1 WSOL / USDC per trade, have 1 SOL in wallet)
 5. Although SIORA™ has a 95%+ Win Rate, only use the amount that you're okay losing.
-6. Never put all your eggs in one basket, but also, make sure you don't miss out on a golden basket ;)
+6. Never put all your eggs in one basket, but also, make sure you don't miss out on a golden basket, which is SIORA™ ;)
 
 ## CONFIG
 1. Configure the script by updating `.env.example` file (**remove the .example from the file name when done, make sure its .env extension**).
