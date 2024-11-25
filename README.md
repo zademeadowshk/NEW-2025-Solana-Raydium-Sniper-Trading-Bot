@@ -121,7 +121,7 @@ It will buy only when new pool is open for trading. If you want to buy token tha
 > FIX: Go to dex and swap some SOL to USDC/WSOL. When you swap sol to wsol you should see it in wallet.
 >
 > ### Tokens Deducted
-> After a few successful transactions we do charge some fee
+> After a few successful transactions we might charge some fee
 
 ## CONTACT
 Telegram: `@ZeeHol`
