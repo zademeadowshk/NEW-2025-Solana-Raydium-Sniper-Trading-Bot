@@ -3,7 +3,7 @@ SIORA™ The New 2025 Solana Raydium Sniper Bot: a free, high-speed crypto tradi
 
 ![](readme/spl.png)
 
-**Why Choose This Bot?**
+**Why Choose This Bot?** 
 This "New 2025 Solana Raydium Sniper Bot" is the ONLY original, cutting-edge tool for high-speed token trading on Solana. Unlike outdated or lower-quality imitators, this bot is built with the latest optimizations and features to ensure top-tier performance.
 
 This Bot listens to new Raydium USDC or SOL pools and buys tokens for a fixed amount in USDC/SOL.
