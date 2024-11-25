@@ -26,7 +26,7 @@ To run the script you need to:
 2. Have some SOL in it
 3. Convert some SOL to USDC or WSOL (you need USDC or WSOL depending on the configuration set below, I personally use WSOL mostly, but whatever suits you use it.)
 
-`Jupiter Wrap` : https://jup.ag/
+`Jupiter Wrap` : https://jup.ag/ (To Convert SOL To WSOL)
 
 ![](readme/jupiterwrap.png)
 
