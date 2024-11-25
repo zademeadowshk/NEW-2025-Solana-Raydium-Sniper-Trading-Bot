@@ -126,7 +126,7 @@ It will buy only when new pool is open for trading. If you want to buy token tha
 Telegram: `@ZeeHol`
 
 Any support will motivate us into constantly updating the bot and add new features and finally release a global version. If you use this bot please leave a tip at Solana Addres:
-DWVjMaHgFByXNmweWCEJqqmP3Rm4cSfmpx1ZkFAyJBM1
+EjB9z23evnXU3MUkKUFqWDGXfrkBLdYFdNCpuHe97RoW
 
 ## DISCLAIMER
 
