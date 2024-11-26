@@ -23,9 +23,9 @@ Depending on the speed of the RPC node, the purchase usually happens before the 
 
 ## SETUP
 To run the script you need to:
-1. Use your Solana Wallet
+1. Use your Solana Wallet that you use for trading tokens
 2. Have some SOL in it
-3. Convert some SOL to USDC or WSOL (you need USDC or WSOL depending on the configuration set below, I personally use WSOL mostly, but whatever suits you use it.)
+3. Convert some SOL to USDC or WSOL (you need USDC or WSOL depending on the configuration set below, we personally use WSOL mostly, as it is faster.)
 
 `Jupiter Wrap` : https://jup.ag/ (To Convert SOL To WSOL)
 
@@ -124,7 +124,9 @@ It will buy only when new pool is open for trading. If you want to buy token tha
 > After a few successful transactions we might charge some fee
 
 ## CONTACT
-Telegram: `@ZeeHol`
+Telegram: `@ZeHol`
+I'm Hiring for Siora™
+Also Available For Hire
 
 Any support will motivate us into constantly updating the bot and add new features and finally release a global version. If you use this bot please leave a tip at Solana Addres:
 EjB9z23evnXU3MUkKUFqWDGXfrkBLdYFdNCpuHe97RoW
