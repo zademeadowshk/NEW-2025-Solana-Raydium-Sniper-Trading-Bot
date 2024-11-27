@@ -1,4 +1,4 @@
-# The New 2025 Solana Raydium Sniper Bot - High-Speed Token Trading | Free Crypto Trading Bot for USDC/SOL Pools | Profit-Powered Automation (Updated November 2024) 
+# The New 2025 Solana Raydium Sniper Bot - High-Speed Token Trading | Free Crypto Trading Bot for USDC/SOL Pools | Profit-Powered Automation (Updated November 2024)
 SIORA™ The New 2025 Solana Raydium Sniper Bot: a free, high-speed crypto trading tool for sniping new Raydium USDC/SOL pools. Execute token buys before they hit the Raydium UI, leveraging optimized RPC nodes for maximum profit. Perfect for Solana blockchain enthusiasts and traders trading memecoins / memecoin seeking automated crypto profits.
 
 ![](readme/siora.png)
@@ -31,7 +31,7 @@ To run the script you need to:
 
 ![](readme/jupiterwrap.png)
 
-4. The ratio I suggest is 1:10, that is, for every 1 WSOL / USDC you'll use per trade, have 10 SOL in the wallet (so if you're using 0.1 WSOL / USDC per trade, have 1 SOL in wallet)
+4. The ratio I suggest is 1:10, that is, for every 1 WSOL / USDC you'll use per trade, have 10 SOL in the wallet (so if you're using 0.1 WSOL / USDC per trade, have 1 SOL in wallet. Just make sure you have more SOL than WSOL / USDC)
 5. Although SIORA™ has a 95%+ Win Rate, only use the amount that you're okay losing.
 6. Never put all your eggs in one basket, but also, make sure you don't miss out on a golden basket, which is SIORA™ ;)
 
