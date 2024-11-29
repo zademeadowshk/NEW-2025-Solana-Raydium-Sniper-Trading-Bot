@@ -135,3 +135,6 @@ EjB9z23evnXU3MUkKUFqWDGXfrkBLdYFdNCpuHe97RoW
 
 > [!IMPORTANT]
 > Use this script at your own risk.
+
+
+Tags: Solana Bot, Solana Sniper Bot, Solana Sniping Bot, Solana Sniper, Solana Sniping, Raydium Bot, Raydium Sniper Bot, Raydium Sniping Bot, Raydium Sniper, Raydium Sniping, Raydium Pool, Memecoins, Meme Coins, Memecoins Bot, Memecoins Sniper Bot, Memecoins Sniping Bot, Memecoins Sniper, Memecoins Sniping, Pump Fun Sniper, Pump Fun Bot, Pump Fun Sniping, Pump Fun Sniper Bot, Pump Fun Sniping Bot
