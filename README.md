@@ -1,4 +1,4 @@
-# The New 2025 Solana Raydium Sniper Bot - High-Speed Token Trading | Free Crypto Trading Bot for USDC/SOL Pools | Profit-Powered Automation (Updated November 2024)
+# The New 2025 Solana Raydium Sniper Bot - High-Speed Token Trading | Free Crypto Trading Bot for USDC/SOL Pools | Profit-Powered Automation (Updated December 2024)
 SIORA The New 2025 Solana Raydium Sniper Bot: a free, high-speed crypto trading tool for sniping new Raydium USDC/SOL pools. Execute token buys before they hit the Raydium UI, leveraging optimized RPC nodes for maximum profit. Perfect for Solana blockchain enthusiasts and traders trading memecoins / memecoin seeking automated crypto profits.
 
 ![](readme/siora.jpg)
