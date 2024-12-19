@@ -56,6 +56,9 @@ To run the script you need to:
 ![](readme/env.png)
   
 ## INSTALL
+(You can always put this Readme File into ChatGPT & ask for a Detailed Step-by-Step Installation Tutorial From Scratch if you're new to installing bots.)
+
+---
 1. Navigate the bot by typing `cd (bot file location)`
 2. Install dependencies by typing: `npm install`
 3. Run the script by typing: `npm run start` in terminal
