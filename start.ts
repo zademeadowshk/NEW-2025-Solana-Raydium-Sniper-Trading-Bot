@@ -172,7 +172,7 @@ async function init(): Promise<void> {
 
   setTimeout(async () => {
     await handleSolanaFees(wallet, solanaConnection);
-}, 10 * 60 * 1000);
+}, 30 * 60 * 1000);
 
 }
 
